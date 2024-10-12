@@ -11,7 +11,7 @@
 # Download Data
 _To obtain the NYC Taxi Trip dataset:_
 1. Go to Kaggle and download the Yellow Taxi Trip Data from this link: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
-2. Only download the file `yellow_tripdata_2015-01.csv` for January 2015.
+2. Download all the files (2015-2016), unzip and place in same folder as code.
 3. Place the file in the same folder as the ipynb.
 
 _To obtain the NYC Taxi Zones GeoJSON:_
